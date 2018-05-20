@@ -1,0 +1,21 @@
+.nodeBase {
+  cursor: pointer;
+  fill: #bce2fd;
+  stroke: #00a2e8;
+  stroke-width: 2;
+}
+
+.leafNodeBase {
+  cursor: pointer;
+  fill: #ffffff;
+  stroke: #00a2e8;
+  stroke-width: 2;
+}
+
+.nodeNameBase {
+  fill: #000;
+  stroke: #7d7d7d;
+  stroke-width: 0.4;
+  font-family: 'Lucida Console';
+  font-size: 0.7em;
+}

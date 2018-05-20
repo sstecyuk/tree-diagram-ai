@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+
+.App-header {
+  background-color: #ffffff;
+  padding: 20px;
+  color: grey;
+}
+
+.App-title {
+  font-size: 2em;
+  font-family: 'Lucida Console';
+  font-weight: 100;
+  letter-spacing: 15px;
+  text-transform: uppercase;
+}
